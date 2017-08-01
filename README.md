@@ -1,2 +1,2 @@
 # musicsnatch
-Oneliner to donwload musics from youtube
+One-liner to download musics from youtube
